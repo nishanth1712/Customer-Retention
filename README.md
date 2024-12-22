@@ -25,8 +25,8 @@ The dataset is sourced from the Kaggle [Telco Customer Churn Dataset](https://ww
    ```
 
 ## Results
-- Logistic Regression Accuracy: ~[Add result]
-- Random Forest Accuracy: ~[Add result]
+- Logistic Regression Accuracy: ~80%
+- Random Forest Accuracy: ~78%
 
 ## Visualizations
 - Confusion matrices for both models.
